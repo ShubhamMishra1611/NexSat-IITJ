@@ -1,2 +1,2 @@
-# NexSat-FSW
-FSW development for NexSat IITJ for CanSat 2022 organised by ASI 
+# NexSat-IITJ
+Development of NexSat-IITJ for CanSat 2022 organised by ASI 
